@@ -1,4 +1,4 @@
-Online Examination System
+# Online Examination System
 An Online Examination System built using Java, JSP, Servlets, JDBC, and MySQL. This project aims to provide a platform for conducting online exams with features like user registration, login, exam creation, question management, and result evaluation.
 
 Table of Contents
